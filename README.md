@@ -28,7 +28,7 @@
 ![pdm](https://github.com/danurepha/Tugas-7-Inner-Join/blob/master/PDM.jpg?raw=true)
 
 ## 10. Design Database
-![design database](https://github.com/danurepha/Tugas-7-Inner-Join/blob/master/Design%20Database.png?raw=true)
+![design database](https://github.com/danurepha/Tugas-7-Inner-Join/blob/master/Design%20Database.png)
 
 ## 11. Inner Join Database
 ![inner join database](https://github.com/danurepha/Tugas-7-Inner-Join/blob/master/Inner-Join-Database.png?raw=true)
